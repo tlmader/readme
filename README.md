@@ -35,4 +35,6 @@ Outside of work, I created a [map-based mobile app for finding local music](http
 https://user-images.githubusercontent.com/2181467/121065955-2fff4f80-c77e-11eb-8b1c-f51737df2867.mov
 
 ## Frontend Engineer @ Symmetry Systems
-My current chapter takes place at the data security startup, [Symmetry Systems](https://www.symmetry-systems.com/), where I joined to start their React and GraphQL projects. I am excited to take everything I have learned to help build the next generation of solutions to protect our data and privacy from cyberattacks.
+My current chapter takes place at the data security startup, [Symmetry Systems](https://www.symmetry-systems.com/), where I joined to start their React and GraphQL projects. I am very excited to take everything I have learned to help build the next generation of solutions to protect our data and privacy from cyberattacks.
+
+![image](https://user-images.githubusercontent.com/2181467/121066570-e4997100-c77e-11eb-80a2-ede025c818f3.png)
