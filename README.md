@@ -30,7 +30,7 @@ I took the next step in my career by transitioning into remote work at [ScienceL
 
 <img src="https://sciencelogic.com/wp-content/uploads/2021/04/homepage-feature-4-copy.png" width="500" />
 
-Outside of work, I worked on a [map-based mobile app for finding local music](https://www.indienav.com/). I learned how to build and release mobile applications to the Apple and Google app stores (React Native, Expo, Fastlane, GitHub Actions), create cloud-native backend services (Serverless Framework, AWS Lambda, DynamoDB, AWS AppSync, Amazon Cognito), and integrate with payments and analytics APIs (Stripe Payments/Connect, Google Analytics, Facebook Analytics). The application is still a work in progress as we adapt it to the post-COVID-19 world.
+Outside of work, I created a [map-based mobile app for finding local music](https://www.indienav.com/). I learned how to build and release mobile applications to the Apple and Google app stores (React Native, Expo, Fastlane, GitHub Actions), create cloud-native backend services (Serverless Framework, AWS Lambda, DynamoDB, AWS AppSync, Amazon Cognito), and integrate with payments and analytics APIs (Stripe Payments/Connect, Google Analytics, Facebook Analytics). The application is still a work in progress as we adapt it to the post-COVID-19 world.
 
 https://user-images.githubusercontent.com/2181467/121065955-2fff4f80-c77e-11eb-8b1c-f51737df2867.mov
 
